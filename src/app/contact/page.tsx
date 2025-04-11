@@ -19,8 +19,8 @@ export default function ContactPage() {
     {
       icon: <Phone className="h-6 w-6" />,
       title: "Phone",
-      value: "+91 1234567890",
-      action: "tel:+911234567890"
+      value: "+91 6359375904",
+      action: "tel:+916359375904"
     },
     {
       icon: <MapPin className="h-6 w-6" />,
@@ -39,12 +39,12 @@ export default function ContactPage() {
     {
       icon: <Linkedin className="h-5 w-5" />,
       name: "LinkedIn",
-      url: "https://linkedin.com/in/yourprofile"
+      url: "https://www.linkedin.com/in/aashutosh-singh-560986274"
     },
     {
       icon: <Twitter className="h-5 w-5" />,
       name: "Twitter",
-      url: "https://twitter.com/yourhandle"
+      url: "javascript:void(0)"
     }
   ];
 
