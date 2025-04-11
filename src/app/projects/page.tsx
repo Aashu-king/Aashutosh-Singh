@@ -154,7 +154,7 @@ const ProjectsPage = () => {
       description: "A personal portfolio built with Next.js to showcase projects, skills, and experiences with a modern, responsive design.",
       imageUrl: "/portfolio.png",
       tags: ["Next.js", "React", "Tailwind CSS", "TypeScript"],
-      githubUrl: "https://github.com/yourusername/portfolio-website",
+      githubUrl: "https://github.com/Aashu-king/Aashutosh-Singh",
       details: {
         overview: "Designed and developed a high-performance, SEO-optimized portfolio using Next.js. The site serves as a digital resume, highlighting development work, technologies, and blog content.",
         features: [
